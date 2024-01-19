@@ -10,7 +10,7 @@ OI  👋  Meu nome é Daniel Filho! 😎
 
 🚀What I like most is coding and discovering new things, I like learning new technologies; Also, I love delving into multiple problem solves to determine which is the best fit for it.
 
-👨‍💼 Nowadays, I work at Rede Mater Dei de Saúde S/A, as an IT intern.
+👨‍💼 Nowadays, I work at Spark Systems as a Trainee Developer.
 
 ## My specialties:
 
